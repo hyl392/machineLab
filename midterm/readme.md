@@ -1,1 +1,2 @@
-![](midterm/IMG_8615.jpg)
+
+![](IMG_8615.jpg)
