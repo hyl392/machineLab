@@ -1,6 +1,6 @@
 ## Sketch 1 (very very preliminary):
 ![](IMG_8615.jpg) 
-This is my design of a frog, which I felt inspired to create after doing the readings and seeing many initial designs of animals whose actions could be replicated through simple machines. 
+This is my design of a frog, which I felt inspired to create after doing the readings and seeing many initial designs of animals whose actions could be replicated through simple machines. Frogs don't have eyebrows (maybe they do, I just don't know) but we needed to include a servo in our design and I thought, "Hey, let's personify this frog!" and so decided to give my frogs some eyebrows so that it could react everytime it moved. 
 
 ## Sketch 2 (adding dimensions -- we're getting somewhere):
 The title and the descriptions on the papers are self-explanatory. I added dimensions to my design after getting the actual parts and trying to piece them together preliminarily. 
