@@ -26,4 +26,5 @@ I asked Michael to explain to me how the linkages worked for the legs in this ca
 And before I could proceed, everything changed.... But that's okay, here are some random reflections: 
 - The frog is so much bigger than I thought it would be, and I realised this only after starting drawing down actual dimensions and starting to make a prototype. In conclusion, I should ALWAYS make a to-scale sketch and prototype before making some for reals. 
 - Building things by hand is so fun
+- The rod cutter tool (I forgot its name) is scary
 - Linkages work so different depending on the length of the different pieces that are attached to each other. Make sure to experiment around with them!!
