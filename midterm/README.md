@@ -10,4 +10,4 @@
 ![](IMG_0291.JPG) 
 ![](IMG_0869.JPG) 
 ![](IMG_5537.JPG) 
-![](IMG_8712.HEIC) 
+![](linkageexample.png) 
