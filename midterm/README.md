@@ -5,8 +5,9 @@
 ![](designpt2_1.JPG) 
 ![](designpt2_2.JPG) 
 ![](designpt2_3.JPG) 
+
+## Prototyping (let's use some cardboard to have fun!):
 ![](IMG_0291.JPG) 
-![](IMG_0869.JPG) 
 ![](IMG_0869.JPG) 
 ![](IMG_5537.JPG) 
 ![](IMG_8712.HEIC) 
