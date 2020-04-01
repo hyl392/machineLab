@@ -1,4 +1,5 @@
 Here are some final project ideas/documentation! 
 
-Below is a super rough draft of an idea that I had:
+##Super rough draft of an idea that I had:
 ![](finalprojectidea.JPG) 
+
