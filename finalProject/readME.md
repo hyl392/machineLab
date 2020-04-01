@@ -5,7 +5,7 @@ First some ideas for themes:
     - foods
     - cultural practices
     - clothes
-- toys
+- toys/animals
 - each individual student as a figure and his/her hobby
 
 
