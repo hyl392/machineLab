@@ -1,4 +1,4 @@
-Here are some final project ideas/documentation! 
+## Final project, here we go!
 
 First some ideas for themes:
 - country specific 
