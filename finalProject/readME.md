@@ -18,13 +18,13 @@ After a vote, we decided as with a majority of the class picking the option I pr
 I began the next step by thinking of different levels of activity that activates at different points in the hour e.g. a low level which might be activated on the quarter hour, a medium level on the half hour, and a high level which will be activated on the hour. I had briefly thought about the possible different actions that I could have, already in my initial design, and so I simply went from these ideas and attempted to find some examples of these actions in play so that I could see what sorts of movements, joints, and connections I needed to design and implement. Below are some examples:
 
 Low level -- normal mediocre dibbling:
-![]("basketball mechanism 2.gif")
+![](mechanism2.gif)
 
 Medium level -- some cool dribbling techniques:
-![](basketball mechanism 3.gif)
+![](mechanism3.gif)
 
 High level -- shooting the basketball:
-![](basketball mechanism 1.png)
+![](mechanism1.png)
 
 The next step was to obviousy think of the degree and range of motions that I would need my person to perform to encompass all three types of activity as shown above. I did not know what materials to use and how to go about this, except for the fact that the ball would be placed on some acrylic rod or something transparent so that the ball looks like it is floating as it should do in normal basketball (i.e. without a support). Michael suggested that I create 3 different components -- one encompassing each level of activity. To highlight which component is moving, I could use something like a spotlight that brings attention to one component rather than all three at once. 
 
