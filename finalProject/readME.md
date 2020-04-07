@@ -1,4 +1,4 @@
-## Final project, here we go!
+## Final project, here we go! -- 1 April
 
 First some ideas for themes:
 - country specific 
@@ -9,10 +9,10 @@ First some ideas for themes:
 - each individual student as a figure and his/her hobby
 
 
-## Super rough draft of an idea that I had:
+## Super rough draft of an idea that I had: 
 ![](finalprojectidea.JPG) 
 
-## Chosen topic: something that represents us!
+## Chosen topic: something that represents us! -- 6 April 
 After a vote, we decided as with a majority of the class picking the option I proposed of the theme being a representation of ourself. YAY! This news was great because it also happened to be topic that I had done a brief brainstorming and sketch of (as seen above). Now it was about expanding this design and idea and incorporate new elements into it.  
 
 I began the next step by thinking of different levels of activity that activates at different points in the hour e.g. a low level which might be activated on the quarter hour, a medium level on the half hour, and a high level which will be activated on the hour. I had briefly thought about the possible different actions that I could have, already in my initial design, and so I simply went from these ideas and attempted to find some examples of these actions in play so that I could see what sorts of movements, joints, and connections I needed to design and implement. Below are some examples:
@@ -29,7 +29,7 @@ High level -- shooting the basketball:
 
 The next step was to obviousy think of the degree and range of motions that I would need my person to perform to encompass all three types of activity as shown above. I did not know what materials to use and how to go about this, except for the fact that the ball would be placed on some acrylic rod or something transparent so that the ball looks like it is floating as it should do in normal basketball (i.e. without a support). Michael suggested that I create 3 different components -- one encompassing each level of activity. To highlight which component is moving, I could use something like a spotlight that brings attention to one component rather than all three at once. 
 
-## Refining idea, adding details
+## Refining idea, adding details -- 8 April
 **Dimensions**: The person would be around 20 cm tall, ball would be proportional to the body as they are in real life. IMPORTANT DECISION I NEED TO MAKE -- make the person 3D or simply 2D (flat??) 
 
 **What materials you will use for each piece?**: I think plastic would be the easiest as it is the lightest, maybe 3D printed?. Especially when it comes to moving a lot of components at once, it would be less of an issue for the motors to move them around.    
