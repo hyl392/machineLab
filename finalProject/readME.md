@@ -18,7 +18,7 @@ After a vote, we decided as with a majority of the class picking the option I pr
 I began the next step by thinking of different levels of activity that activates at different points in the hour e.g. a low level which might be activated on the quarter hour, a medium level on the half hour, and a high level which will be activated on the hour. I had briefly thought about the possible different actions that I could have, already in my initial design, and so I simply went from these ideas and attempted to find some examples of these actions in play so that I could see what sorts of movements, joints, and connections I needed to design and implement. Below are some examples:
 
 Low level -- normal mediocre dibbling:
-![](basketball mechanism 2.gif)
+![]("basketball mechanism 2.gif")
 
 Medium level -- some cool dribbling techniques:
 ![](basketball mechanism 3.gif)
@@ -30,9 +30,13 @@ The next step was to obviousy think of the degree and range of motions that I wo
 
 ## Refining idea, adding details
 *Dimensions*: the person would be around 20 cm tall. IMPORTANT DECISION I NEED TO MAKE -- make the person 3D or simply 2D (flat??) 
+
 *What materials you will use for each piece?*: I think plastic would be the easiest as it is the lightest, maybe 3D printed?. Especially when it comes to moving a lot of components at once, it would be less of an issue for the motors to move them around.    
+
 *How will you design it in Fusion 360?* Great question, I guess I have to first try out the linkages and cams and different joints to make sure parts move like how I want them to, then I will move to creating the other body parts that are considered less essential.  
+
 *What machine will be used to fabricate each piece?* 3D printing (especially needed if I were to have a 3D figure), laser cutting (for the balls?) 
+
 *How each piece will attach to the rest? Glue? Bolts?*: mostly bolts for the figures, glue for the ball onto the clear rod 
 
 
