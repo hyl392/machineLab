@@ -32,11 +32,11 @@ The next step was to obviousy think of the degree and range of motions that I wo
 
 
 ## Refining idea, adding details -- 8 April
-**Dimensions**: The person would be around 20 cm tall, ball would be proportional to the body as they are in real life. IMPORTANT DECISION I NEED TO MAKE -- make the person 3D or simply 2D (flat??) 
+**Dimensions**: The character would be around 20 cm tall, ball would be proportional to the body as they are in real life. Need 3 sets of these. IMPORTANT DECISION I NEED TO MAKE -- make the person 3D or simply 2D (flat??) 
 
 **What materials you will use for each piece?**: I think plastic would be the easiest as it is the lightest, maybe 3D printed?. Especially when it comes to moving a lot of components at once, it would be less of an issue for the motors to move them around.    
 
-**How will you design it in Fusion 360?**: Great question, I guess I have to first try out the linkages and cams and different joints to make sure parts move like how I want them to, then I will move to creating the other body parts that are considered less essential.  
+**How will you design it in Fusion 360?**: Great question, don't know the answer. I guess I have to first try out the linkages and cams and different joints to make sure parts move like how I want them to, then I will move to creating the other body parts that are considered less essential.  
 
 **What machine will be used to fabricate each piece?**: 3D printing (especially needed if I were to have a 3D figure), laser cutting (for the balls?) 
 
