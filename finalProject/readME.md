@@ -31,7 +31,7 @@ The next step was to obviousy think of the degree and range of motions that I wo
 ![](mechanismjointsmovement.JPG) 
 
 Interesting reference video:
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/d4KbzL7rLMs)
+[![Watch the video](https://img.youtube.com/vi/d4KbzL7rLMs/maxresdefault.jpg)](https://youtu.be/d4KbzL7rLMs)
 
 
 ## Refining idea, adding details -- 8 April
