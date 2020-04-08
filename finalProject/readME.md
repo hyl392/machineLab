@@ -30,6 +30,9 @@ High level -- shooting the basketball:
 The next step was to obviousy think of the degree and range of motions that I would need my person to perform to encompass all three types of activity as shown above. I did not know what materials to use and how to go about this, except for the fact that the ball would be placed on some acrylic rod or something transparent so that the ball looks like it is floating as it should do in normal basketball (i.e. without a support). Michael suggested that I create 3 different components -- one encompassing each level of activity. To highlight which component is moving, I could use something like a spotlight that brings attention to one component rather than all three at once. 
 ![](mechanismjointsmovement.JPG) 
 
+Interesting reference video:
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/d4KbzL7rLMs)
+
 
 ## Refining idea, adding details -- 8 April
 **Dimensions**: The character would be around 20 cm tall, ball would be proportional to the body as they are in real life. Need 3 sets of these. IMPORTANT DECISION I NEED TO MAKE -- make the person 3D or simply 2D (flat??) 
