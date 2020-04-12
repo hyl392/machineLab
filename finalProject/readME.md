@@ -45,5 +45,7 @@ Interesting reference video:
 
 **How each piece will attach to the rest? Glue? Bolts?**: mostly bolts for the figures, glue for the ball onto the clear rod 
 
-
-
+## Refining idea, adding details (part 2) -- 13 April
+I decided on 3 levels of activity that I wanted my part of the clock to have: 1) dribbling, 2) spinning a basketball on one finger, and 3) dunking. 
+![](activity2.JPG) 
+![](activity1.JPG) 
