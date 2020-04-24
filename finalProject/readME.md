@@ -50,3 +50,23 @@ I decided on 3 levels of activity that I wanted my part of the clock to have: 1)
 ![](activity2.JPG) 
 ![](activity1.JPG) 
 ![](activity3.JPG) 
+
+## Designs on Fusion 360! -- 22 April
+In the midst of all the designing and trying to figure out Fusion, I forgot to update my documentation. But, here goes. 
+After some discussion in class, I decided to stick to working on the mechanisms of spinning a basketball and dunking first, and seeing where that takes me before attempting to work out the logistics of doing the dribbling mechanism. Before starting the designs on Fusion, I made sure to have some 
+
+**Mechanism 1: Dunking**
+Here is my design visualised on Fusion 360. 
+![](mechanism1_1.png) 
+![](mechanism1_2.png) 
+Thoughts: Took me a while to work out the different joints to use, despite having done the exercise to work on our understanding of joints. I also found out to mimic the actual linkage and turning system in real life, you have to ground certain objects. I found this out after lots of trial and error (and frustration). 
+
+**Mechanism 2: Spinning Ball with Finger**
+Design visualised on Fusion 360. 
+![](mechanism2_1.png) 
+This design, as compared to the first mechanism, was harder to realise in that I had to learn new Fusion 360 skills that we didn't go through before. Originally, I had built this system with regular gears and not bevel gears, because I couldn't find McMaster-Carr components of bevel gears that fit within the dimensions and that I wanted. During our class check-up, Michael made me aware that there was a plug-in that I could employ to build custom bevel gears. After Googling and finding this extension, however, I realised that it only works on Windows operating systems and not Macs and so being able to use this extension was out of the picture. I then proceeded to experiment with importing McMaster-Carr components and trying to alter them in some way. I didn't really think this was possible (Michael as well) as when you import them into your design, they don't come with Sketches attached to them. After a lot of clicking and pressing delete, I found out how to delete elements and add elements to imported McMaster-Carr components!! If anyone needs help, let me know!  
+Here are the bevel gears, closer-up:
+![](mechanism2_2.png) 
+In my design, you'll notice that while the two bevel gears have different number of teeth (30 and 20, respectively), when I run/turn the mechanism, they align and match up perfectly. I was able to do so using the 'Motion Link' feature where I did some maths (30/20 * 360 degrees = 540 degrees; ie when the bigger bevel gear spins 360 degrees, the smaller one would have turned 540 degrees). 
+I would also like to note that modelling the movements of this particular mechanism as it would in real life took A LONG time for me to get to. I had to make dummy components that consist solely of joint origins, had to ground certain elements, connect one joint to another, etc. Doing all of this was so rewarding in my opinion because I feel like I'm really learning how to use CAD.
+![](mechanism2_3.png) 
