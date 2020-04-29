@@ -78,7 +78,7 @@ I would also like to note that modelling the movements of this particular mechan
 ![](mechanism2_3.png) 
 
 ## Designs on Fusion 360! (more!) -- 29 April
-It seems that everything in the ERB has been halted, meaning the parts that I sent to get laser cut and 3D printed are still in progress and I'm unsure when I will be able to start putting the parts together. In the meantime, I have made my character and placed them onto my mechanisms. 
+It seems that everything in the ERB has been halted, meaning the parts that I sent to get laser cut and 3D printed are still in progress and I'm unsure when I will be able to start putting the parts together. In the meantime, I have made my character and placed them onto my mechanisms.   
 **Mechanism 1** 
 ![](mechanism1_char.png)  
 **Mechanism 2** 
