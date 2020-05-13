@@ -84,3 +84,20 @@ It seems that everything in the ERB has been halted, meaning the parts that I se
 **Mechanism 2** 
 ![](mechanism2_char.png) 
 Note that for mechanism 2, it seems like the character is so far away from the ball. When I put the mechanism together in real life, they will not be like the image. I just couldn't move the gear part of the mechanism over without breaking the joints and the movements. 
+
+## Designs on Fusion 360! (more! x2 and FINAL!) -- 11 May
+I didn't update my journal last week to reflect this change but I actually found a nicer looking basketball hoop for Mechanism 1 that I'm going to use instead of the very simple one that I made myself. This is shown in the image below that I'm going to use to show where motors are going to be placed.
+
+The last part of my project that I really needed to focus on was thinking about how the motor is going to be attached and how the board is going to be secured onto the platform in which the mechanism is going to be placed. I ran into quite a lot of trouble with this for Mechanism 1. I realised that the initial linkages and mechanisms that I had built are actually very poorly made. Some parts in there were unnecessary, some parts too big, some parts misplaced. The mechanism itself, when the crank was turning, moved the character so far back that she "went through" the top wall. I had to figure out how to change the size of parts, move joints, etc. so that the parts still stayed intact and most importantly, that the whole mechanism still works well and functions. This process took a lot of trial and error and retracing my steps. I had to figure out which parts to alter first before moving on to altering other parts, constantly asking myself questions like whether I should change the size of component X first or should I attempt to move the joint that is attached to said component first. 
+
+Although this process was frustrating to say the least, it made me realise how important dimensioning and the initial design process is. I had dimensioned out my sketch but made some careless design decisions that made coming back to change the design at a later stage harder (I didn't note down any changes to my design that I had made in terms of dimensions, placement, etc after I started to make them in Fusion). Hamdulillah that everything worked out in the end and I was able to make the changes that I felt necessary, but it could have saved me a lot of time if I had just been more careful and attentive to what I was doing the first time around. 
+
+The following two pictures show the "ends" of the movement that Mechanism 1 has after I successfully made the changes to component size and attached the motor in the right position.  
+![](mechanism1_forward.png)    
+![](mechanism1_backward.png)      
+ 
+The following are the final products!
+**Mechanism 1**  
+![](mechanism1_stepperholder.png)  
+**Mechanism 2** 
+![](mechanism2_stepperholder.png) 
