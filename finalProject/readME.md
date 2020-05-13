@@ -96,8 +96,11 @@ The following two pictures show the "ends" of the movement that Mechanism 1 has 
 ![](mechanism1_forward.png)    
 ![](mechanism1_backward.png)      
  
-The following are the final products!
+The following are the final products! I just need to obviously make sure when actually assembling them together, the motor will be laying on a surface and not just kind of floating in the air somewhere. 
+
 **Mechanism 1**  
 ![](mechanism1_stepperholder.png)  
 **Mechanism 2** 
-![](mechanism2_stepperholder.png) 
+![](mechanism2_stepperholder.png)  
+
+Files to all the components can be found in the respective folders!
